@@ -1,6 +1,13 @@
 # NFLBigDataBowl2021
 The goal of the competition was to analyze pass defense in the NFL
 
+Before reading the report below, a few distinctions about the code are necessary:
+
+The 'kaggle_competition_script.R' file is the main file that contains the code done for final analysis. 
+The 'nfl_function_file2.R' file is the script containing functions required for the summary statistics on the GPS data. 
+The 'summarize_data_script.R' file is the script for the initial analysis and data preprocessing to get the 'combined_data.rda' file.
+
+All of the data required can be found at https://www.kaggle.com/c/nfl-big-data-bowl-2021/data
 
 Predicting Pass Interference & Defensive Grades
 
